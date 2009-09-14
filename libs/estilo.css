@@ -1,0 +1,49 @@
+img {
+    border: 0;
+}
+#cabecera{
+	background-color: #e4870c; 
+	font-size: XX-large;
+}
+
+#cabecera a:link, #cabecera a:visited { text-decoration: none }
+
+#login p{ 
+	text-align: right;
+}
+
+#validador img{
+	float: right;
+}
+
+#login {
+
+  position: absolute;
+  right: 10px;
+  top: 10px;
+} 
+a{
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+ul{
+    font-weight: bold;
+}
+li{
+
+    font-style: oblique;
+}
+body{
+    background-color: #fcb065;
+}
+h1{
+    position: absolute;
+    top: 5;
+    right: 50%;
+}
+#par{
+    background-color: #b34b4b;
+}
+#impar{
+    background-color: #bdc9d2;
+}
