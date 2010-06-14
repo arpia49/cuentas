@@ -18,7 +18,7 @@
 	    <link rel="stylesheet" type="text/css" media="screen" href="libs/estilo.css" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <title>Google Maps JavaScript API Example</title>
-    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAK-EFNFMO_0XmjojhacSOxBTqEbIssWsfvxnA2uIwG3iZaVu0IBSmzWESXk7eBPacMnNVfvWtc3mYJg"
+    <script src="ABQIAAAAK-EFNFMO_0XmjojhacSOxBT3kT5ry48tYQa0G0tn8-2Qk5Y8ehS5pI4zvywbVAcb_FeTzX87I4qISQ"
       type="text/javascript"></script>
     <script type="text/javascript">
 
